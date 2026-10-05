@@ -27,7 +27,7 @@ body {
 
 header {
     grid-column: 1 / -1;
-    background-color: #022333;
+    background-color: #89CFF0;
     color: #FFFFFF;
     display: flex;
     flex-direction: column;
@@ -132,7 +132,7 @@ aside {
 }
 
 aside h3 {
-    color: #276749;
+    color: #022333;
 }
 
 aside ul {
@@ -152,7 +152,7 @@ aside a {
 
 footer {
     grid-column: 1 / -1;
-    background-color: #022333;
+    background-color: #89CFF0;
     color: #FFFFFF;
     text-align: center;
     padding: 20px;
